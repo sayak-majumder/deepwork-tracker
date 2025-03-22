@@ -30,7 +30,7 @@ The **Deep Work Tracker** app helps you build habits and stay consistent with yo
 
 | Main Menu | Example Tracker View |
 |-----------|----------------------|
-| ![Main Menu Screenshot](your-screenshot-link-here) | ![Tracker Screenshot](your-screenshot-link-here) |
+| ![Main Menu Screenshot](./mainmenu.png) | ![Tracker Screenshot](./Tracker.png) |
 
 ---
 
@@ -90,6 +90,4 @@ I wanted to make it easy to use, visually clean, and something that feels good t
 Thank you for checking out my project! ❤️   
 Feel free to star ⭐ the repo and follow along!
 
----
 
-Would you like me to generate the screenshot markdown with GitHub raw URLs for your images once you upload them?
