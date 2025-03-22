@@ -81,7 +81,7 @@ Any feedback or stars ⭐ would mean a lot!
 ---
 
 ## 🧩 Project Idea
-The main goal of this app is to help myself stay accountable and track my daily habits or deep work tasks without overcomplication.  
+The main goal of this app is to help myself stay accountable and track my daily habits or deep work tasks without overcomplication. So, I thought why not also share it with community, it might help others.  
 I wanted to make it easy to use, visually clean, and something that feels good to check off each day!
 
 ---
