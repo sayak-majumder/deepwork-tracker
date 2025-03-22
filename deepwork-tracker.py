@@ -124,7 +124,7 @@ class DeepWorkTracker:
         
         tk.Label(
             self.header_frame,
-            text="You're a chamption",
+            text="You're a champion",
             font=("Helvetica", 18, "bold"),
             bg=PRIMARY_COLOR,
             fg="white"
